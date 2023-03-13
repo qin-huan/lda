@@ -1,0 +1,6 @@
+__pycache__
+data/
+lda/data/
+lda/log/
+wordcloud/data/
+.DS_Store

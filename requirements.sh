@@ -1,0 +1,1 @@
+python3.10 -m pip install tqdm requests retry jieba multitasking pandas pyLDAvis bs4 sklearn numpy openpyxl xlrd pyecharts
